@@ -26,9 +26,9 @@ We welcome contributions from the community! Whether it's code contributions, bu
 Join the conversation and connect with fellow users and developers on our social media channels:
 
 - Twitter: [@InovAI_Official](https://twitter.com/InovAI_Official)
-- Website: [website](https://www.INOVAI.network)
-- Facebook: [GitBook]( https://inovai.gitbook.io/inovai )
-- Telegram: [@INOVAI_official](https://tm.me/INOVAI_official)
+- Website: [website](https://www.inovai.network)
+- Doc: [GitBook]( https://inovai.gitbook.io/inovai)
+- Telegram: [@INOVAI_official](https://tm.me/Inovai_Official)
 
 ## Support
 
